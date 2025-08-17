@@ -1,16 +1,14 @@
 # bridge README
 
-This is the README for your extension "bridge". After writing up a brief description, we recommend including the following sections.
+Bridge é uma extensão para o Visual Studio Code que permite enviar requisições HTTP diretamente do editor.
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
-
-For example if there is an image subfolder under your extension project workspace:
-
-\!\[feature X\]\(images/feature-x.png\)
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+- Envio de requisições HTTP (GET, POST, PUT, DELETE, etc.)
+- Interface simples e intuitiva, inspirada no Postman
+- Histórico de requisições
+- Suporte a headers e corpo JSON
+- Respostas formatadas (JSON, XML, texto)
 
 ## Requirements
 

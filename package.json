@@ -1,7 +1,8 @@
 {
   "name": "bridge",
   "displayName": "Bridge",
-  "description": "Ponte entre você e sua  api",
+  "description": "Um cliente HTTP simples e leve para Visual Studio Code",
+  "publisher": "juninho-silva",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.103.0"
