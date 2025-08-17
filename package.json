@@ -3,6 +3,7 @@
   "displayName": "Bridge",
   "description": "Um cliente HTTP simples e leve para Visual Studio Code",
   "publisher": "juninho-silva",
+  "icon": "images/icon.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.103.0"
